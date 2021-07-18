@@ -1,12 +1,12 @@
 # Druwa GitHub
 
 ### **HwangDongJun**<br>
-`Hwang Andrea Joon`<br>
+`alias Druwa`<br>
 `Sogang Univ.`<br>
 `Computer Science`<br>
 
-- Interested in Web develop, Machine learning, Embedded System.💻
-- Currently, I'm finding my interest in computer science.😎
+- Interested in Computer Vision, Web Develop.💻
+- Contact `wbsl0427@gmail.com` if you have any question.
 - If you want to know about me, Please visit <a href="https://velog.io/@wbsl0427">my blog</a>.
 
 <!---
