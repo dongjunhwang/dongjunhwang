@@ -7,7 +7,7 @@
 
 - Interested in Computer Vision, Web Develop.💻
 - Contact `wbsl0427@gmail.com` if you have any question.
-- If you want to know about me, Please visit <a href="https://velog.io/@wbsl0427">my blog</a>.
+- If you want to know about me, Please visit <a href="https://velog.io/@wbsl0427">my blog</a> and <a href="https://www.youtube.com/channel/UCKpNG3FZqT3_tQEH31ju9xQ">Youtube Channel</a>.
 
 <!---
 Druwa-git/Druwa-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
