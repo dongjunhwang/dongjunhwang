@@ -5,7 +5,7 @@
 `Sogang Univ.`<br>
 `Computer Science`<br>
 
-- Interested in Computer Vision, Web Develop.💻
+- Interested in Computer Vision, ML.💻
 - Contact `wbsl0427@gmail.com` if you have any question.
 - If you want to know about me, Please visit <a href="https://velog.io/@wbsl0427">my blog</a> and <a href="https://www.youtube.com/channel/UCKpNG3FZqT3_tQEH31ju9xQ">Youtube Channel</a>.
 
