@@ -2,12 +2,13 @@
 
 ### **HwangDongJun**<br>
 `alias Druwa`<br>
-`Sogang Univ.`<br>
+`Undergraduate student of Sogang Univ.`<br>
 `Computer Science`<br>
 
-- Interested in Computer Vision, ML.💻
-- Contact `wbsl0427@gmail.com` if you have any question.
-- If you want to know about me, Please visit <a href="https://velog.io/@wbsl0427">my blog</a> and <a href="https://www.youtube.com/channel/UCKpNG3FZqT3_tQEH31ju9xQ">Youtube Channel</a>.
+- Interested in Computer Vision, Deep Learning.💻
+- Contact `wbsl0427@u.sogang.ac.kr` if you have any question.  
+- <a href="https://velog.io/@wbsl0427">![Velog](https://img.shields.io/badge/-velog-brightgreen)</a> 
+- <a href="https://www.youtube.com/channel/UCKpNG3FZqT3_tQEH31ju9xQ">![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCKpNG3FZqT3_tQEH31ju9xQ?style=social)</a>
 
 <!---
 Druwa-git/Druwa-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
