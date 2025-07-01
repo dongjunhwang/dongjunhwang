@@ -8,4 +8,4 @@ I am currently a Ph.D. Student in the Department of Computer Science and Enginee
 
 My recent primary research question is **how to develop scalable and sustainable segmentation models through lifelong learning.**
 
-Contact: djhwang.research@gmail.com.
+Contact: djhwang(at)sogang(dot)ac(dot)kr
