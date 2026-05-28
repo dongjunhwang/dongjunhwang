@@ -4,8 +4,8 @@
 
 I am currently a Ph.D. Student in the Department of Computer Science and Engineering at Sogang University, supervised by Prof. Junsuk Choe. Prior to this, I obtained my M.S. Degree in the Department of Artificial Intelligence at Sogang University advised by the same supervisor. Previously, I received a B.S. Degree at the same university.
 
-**Research Interests**: I research how to make open-vocabulary dense prediction models, such as segmentation and object detection, more scalable. My focus is on enabling visual grounding models to perform lifelong learning. In addition, I explore how to scale dense prediction models using imperfect datasets, such as self-supervised, semi-supervised, weakly supervised, and few-shot learning.
+**Research Interests**: I research how to make vision-language models (VLMs) more scalable. In particular, my work focuses on how to continually train VLMs on new datasets without training them from scratch, and how to unlearn existing knowledge from VLMs. I also explore how to scale VLMs using imperfect datasets, such as self-supervised, semi-supervised, weakly supervised, and few-shot learning datasets.
 
-My recent primary research question is **how to develop scalable and sustainable segmentation models through lifelong learning.**
+**My recent primary research question** is to analyze how the scalability of VLMs affects vision-language-action models (VLAs).
 
 Contact: djhwang(at)sogang(dot)ac(dot)kr
